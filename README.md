@@ -1,4 +1,4 @@
-# Balanced-k-Way-Sort-Merge
+# Balanced k-Way Sort Merge
 
 ## Creating Runs
 Creates initial runs with the replacement selection strategy using a Heap with a maximum size specified by the command-line integer.
